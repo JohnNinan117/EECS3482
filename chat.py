@@ -1,5 +1,5 @@
 '''
-    *  Full Name:
+    *  Full Name: John Ninan
     *  Course:EECS 3482 A
     *  Description:  Chat client.
     *
